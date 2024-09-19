@@ -1,0 +1,14 @@
+C:\TR CSharp\AutomationSolution\CSharpConcept\bin\Debug\net8.0\CSharpConcept.exe
+C:\TR CSharp\AutomationSolution\CSharpConcept\bin\Debug\net8.0\CSharpConcept.deps.json
+C:\TR CSharp\AutomationSolution\CSharpConcept\bin\Debug\net8.0\CSharpConcept.runtimeconfig.json
+C:\TR CSharp\AutomationSolution\CSharpConcept\bin\Debug\net8.0\CSharpConcept.dll
+C:\TR CSharp\AutomationSolution\CSharpConcept\bin\Debug\net8.0\CSharpConcept.pdb
+C:\TR CSharp\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\TR CSharp\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.AssemblyInfoInputs.cache
+C:\TR CSharp\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.AssemblyInfo.cs
+C:\TR CSharp\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.csproj.CoreCompileInputs.cache
+C:\TR CSharp\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.dll
+C:\TR CSharp\AutomationSolution\CSharpConcept\obj\Debug\net8.0\refint\CSharpConcept.dll
+C:\TR CSharp\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.pdb
+C:\TR CSharp\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.genruntimeconfig.cache
+C:\TR CSharp\AutomationSolution\CSharpConcept\obj\Debug\net8.0\ref\CSharpConcept.dll

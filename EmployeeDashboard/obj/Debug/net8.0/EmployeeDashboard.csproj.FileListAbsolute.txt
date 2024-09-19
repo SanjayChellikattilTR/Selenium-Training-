@@ -1,0 +1,14 @@
+C:\TR CSharp\AutomationSolution\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\TR CSharp\AutomationSolution\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.AssemblyInfoInputs.cache
+C:\TR CSharp\AutomationSolution\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.AssemblyInfo.cs
+C:\TR CSharp\AutomationSolution\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.csproj.CoreCompileInputs.cache
+C:\TR CSharp\AutomationSolution\EmployeeDashboard\bin\Debug\net8.0\EmployeeDashboard.exe
+C:\TR CSharp\AutomationSolution\EmployeeDashboard\bin\Debug\net8.0\EmployeeDashboard.deps.json
+C:\TR CSharp\AutomationSolution\EmployeeDashboard\bin\Debug\net8.0\EmployeeDashboard.runtimeconfig.json
+C:\TR CSharp\AutomationSolution\EmployeeDashboard\bin\Debug\net8.0\EmployeeDashboard.dll
+C:\TR CSharp\AutomationSolution\EmployeeDashboard\bin\Debug\net8.0\EmployeeDashboard.pdb
+C:\TR CSharp\AutomationSolution\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.dll
+C:\TR CSharp\AutomationSolution\EmployeeDashboard\obj\Debug\net8.0\refint\EmployeeDashboard.dll
+C:\TR CSharp\AutomationSolution\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.pdb
+C:\TR CSharp\AutomationSolution\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.genruntimeconfig.cache
+C:\TR CSharp\AutomationSolution\EmployeeDashboard\obj\Debug\net8.0\ref\EmployeeDashboard.dll
