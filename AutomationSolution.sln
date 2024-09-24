@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumConcept", "Selenium
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumConcept2", "SeleniumConcept2\SeleniumConcept2.csproj", "{C838629C-A845-4841-A671-18CAB9D90100}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumConceptUnitTestProject", "SeleniumConceptUnitTestProject\SeleniumConceptUnitTestProject.csproj", "{C63C938D-D099-435B-881D-A4940B7BC8E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumConceptUnitTestProject", "SeleniumConceptUnitTestProject\SeleniumConceptUnitTestProject.csproj", "{C63C938D-D099-435B-881D-A4940B7BC8E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
