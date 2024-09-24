@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpConcept", "CSharpConcept\CSharpConcept.csproj", "{FFF2B94E-D91B-4801-B645-BD487046281A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpConcept", "CSharpConcept\CSharpConcept.csproj", "{FFF2B94E-D91B-4801-B645-BD487046281A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpConcept2", "CSharpConcept2\CSharpConcept2.csproj", "{B6D0AA7D-80B0-47D8-9B31-78A771E6B0D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpConcept2", "CSharpConcept2\CSharpConcept2.csproj", "{B6D0AA7D-80B0-47D8-9B31-78A771E6B0D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeDashboard", "EmployeeDashboard\EmployeeDashboard.csproj", "{BEB1236B-58BC-4AFE-AB8A-1A41C8064E63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeDashboard", "EmployeeDashboard\EmployeeDashboard.csproj", "{BEB1236B-58BC-4AFE-AB8A-1A41C8064E63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumConcept", "SeleniumConcept\SeleniumConcept.csproj", "{FC632B71-BB84-472F-B15D-81D79F0B3A9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumConcept", "SeleniumConcept\SeleniumConcept.csproj", "{FC632B71-BB84-472F-B15D-81D79F0B3A9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumConcept2", "SeleniumConcept2\SeleniumConcept2.csproj", "{C838629C-A845-4841-A671-18CAB9D90100}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumConcept2", "SeleniumConcept2\SeleniumConcept2.csproj", "{C838629C-A845-4841-A671-18CAB9D90100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumConceptUnitTestProject", "SeleniumConceptUnitTestProject\SeleniumConceptUnitTestProject.csproj", "{C63C938D-D099-435B-881D-A4940B7BC8E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{C838629C-A845-4841-A671-18CAB9D90100}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C838629C-A845-4841-A671-18CAB9D90100}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C838629C-A845-4841-A671-18CAB9D90100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C63C938D-D099-435B-881D-A4940B7BC8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63C938D-D099-435B-881D-A4940B7BC8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C63C938D-D099-435B-881D-A4940B7BC8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C63C938D-D099-435B-881D-A4940B7BC8E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
